@@ -1,0 +1,17 @@
+.primeira_div {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border: 2px solid green;
+    padding-top: 100px;
+}
+
+.segunda_div {
+    background-color: black;
+    height: 100vh;
+    width: 50%;
+    border: 10px dashed red;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+

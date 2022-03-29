@@ -1,0 +1,20 @@
+.primeira_div {
+    background-color: purple;
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.segunda_div {
+    background-color: #ffcbdb;
+    height: 100%;
+    width: 250px;
+    border: 20px solid red;
+}
+
+.terceira_div {
+    background-color: aqua;
+    height: 88%;
+    width: 30%;
+}

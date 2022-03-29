@@ -1,0 +1,33 @@
+.body {
+    background-color: #d3d3d3;
+}
+
+.primeira_div {
+    height: 500px;
+    width: 50vw;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+
+.segunda_div {
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+.terceira_div {
+    background-color: darkorange;
+    height: 100px;
+    width: 30%;
+}
+
+.quarta_div {
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    margin: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
